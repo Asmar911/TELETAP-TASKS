@@ -1,4 +1,5 @@
-{
+[
+  {
   'How to Analyze Crypto?': 'VALUE',
   'Forks Explained': 'GO GET',
   'Secure your Crypto!': 'BEST PROJECT EVER',
@@ -11,4 +12,5 @@
   "Doxxing? Whats that?": "NODOXXING",
   "Pre-Market Trading?": "WOWBLUM",
   "How to Memecoint?": "MEMEBLUM",
-}
+  }
+]
